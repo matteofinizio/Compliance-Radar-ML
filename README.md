@@ -1,9 +1,3 @@
-Great — here is a polished, professional **README.md** tailored to your project and aligned with the professor’s assignment requirements.
-You can copy–paste it directly into your GitHub repository.
-It includes placeholders where you will later insert figures, metrics, and final results.
-
----
-
 # **Compliance Radar — Organizational Risk & Integrity Analysis**
 
 *Corporate Compliance & Operational Risk Detection*
